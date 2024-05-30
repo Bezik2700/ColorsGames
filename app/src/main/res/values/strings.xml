@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Colors</string>
+    <string name="textDescription1">In this level, match the color of the shape and the name of the color. Press any key to start, good luck.</string>
+    <string name="textDescription2">Now let^s complicate the task, let^s see how many correct answers you will give in a certain time.</string>
+    <string name="textDescription3">At this level, you need to compare the shape and its color with the inscription below, if everything matches, click Yes.</string>
+    <string name="textDescription4">At this level, it is necessary to compare the shape and its color with the inscription below, now for a while.</string>
+    <string name="textDescription5">Now compare the color of the fruit, its silhouette with the inscription below, good luck.</string>
+    <string name="textDescription6">Now compare the color of the fruit, its silhouette with the inscription below, just do not forget about the time.</string>
+    <string name="instructions">Instructions for starting</string>
+    <string name="start">Press to start</string>
+    <string name="exit">Exit</string>
+    <string name="mode">Times mode:</string>
+    <string name="levelOne">Level One</string>
+    <string name="levelTwo">Level Two</string>
+    <string name="levelThree">Level Three</string>
+    <string name="next">Next</string>
+    <string name="cansel">Cansel</string>
+    <string name="records">Records:</string>
+    <string name="times">Times: %1$s</string>
+    <string name="youScore">You Score: %1$s</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="banner_Ad_Mob">ca-app-pub-9456842051222073/9208522592</string>
+    <string name="more">More...</string>
+    <string name="thanks">Thank you so much for your interest in this application, additional levels will appear later...</string>
+    <string name="privacy">Privacy Policy </string>
+    <string name="hyperlink">Open <a href="https://www.termsfeed.com/live/d6f3f321-08fa-44d4-927c-f75181bd0ad9">portal</a></string>
+
+    <string name="blackTriangle">black triangle</string>
+    <string name="whiteTriangle">white triangle</string>
+    <string name="blueTriangle">blue triangle</string>
+    <string name="redTriangle">red triangle</string>
+    <string name="brownTriangle">brown triangle</string>
+    <string name="pinkTriangle">pink triangle</string>
+    <string name="purpleTriangle">purple triangle</string>
+    <string name="greenTriangle">green triangle</string>
+    <string name="yellowTriangle">yellow triangle</string>
+    <string name="grayTriangle">gray triangle</string>
+    <string name="orangeTriangle">orange triangle</string>
+
+    <string name="blackCircle">black circle</string>
+    <string name="whiteCircle">white circle</string>
+    <string name="blueCircle">blue circle</string>
+    <string name="redCircle">red circle</string>
+    <string name="brownCircle">brown circle</string>
+    <string name="pinkCircle">pink circle</string>
+    <string name="purpleCircle">purple circle</string>
+    <string name="greenCircle">green circle</string>
+    <string name="yellowCircle">yellow circle</string>
+    <string name="grayCircle">gray circle</string>
+    <string name="orangeCircle">orange circle</string>
+
+    <string name="blackSquare">black square</string>
+    <string name="whiteSquare">white square</string>
+    <string name="blueSquare">blue square</string>
+    <string name="redSquare">red square</string>
+    <string name="brownSquare">brown square</string>
+    <string name="pinkSquare">pink square</string>
+    <string name="purpleSquare">purple square</string>
+    <string name="greenSquare">green square</string>
+    <string name="yellowSquare">yellow square</string>
+    <string name="graySquare">gray square</string>
+    <string name="orangeSquare">orange square</string>
+
+    <string name="blackGrapes">black grapes</string>
+    <string name="whiteGrapes">white grapes</string>
+    <string name="blueGrapes">blue grapes</string>
+    <string name="redGrapes">red grapes</string>
+    <string name="brownGrapes">brown grapes</string>
+    <string name="pinkGrapes">pink grapes</string>
+    <string name="purpleGrapes">purple grapes</string>
+    <string name="greenGrapes">green grapes</string>
+    <string name="yellowGrapes">yellow grapes</string>
+    <string name="grayGrapes">gray grapes</string>
+    <string name="orangeGrapes">orange grapes</string>
+
+    <string name="blackWatermelon">black watermelon</string>
+    <string name="whiteWatermelon">white watermelon</string>
+    <string name="blueWatermelon">blue watermelon</string>
+    <string name="redWatermelon">red watermelon</string>
+    <string name="brownWatermelon">brown watermelon</string>
+    <string name="pinkWatermelon">pink watermelon</string>
+    <string name="purpleWatermelon">purple watermelon</string>
+    <string name="greenWatermelon">green watermelon</string>
+    <string name="yellowWatermelon">yellow watermelon</string>
+    <string name="grayWatermelon">gray watermelon</string>
+    <string name="orangeWatermelon">orange watermelon</string>
+
+    <string name="blackBanana">black banana</string>
+    <string name="whiteBanana">white banana</string>
+    <string name="blueBanana">blue banana</string>
+    <string name="redBanana">red banana</string>
+    <string name="brownBanana">brown banana</string>
+    <string name="pinkBanana">pink banana</string>
+    <string name="purpleBanana">purple banana</string>
+    <string name="greenBanana">green banana</string>
+    <string name="yellowBanana">yellow banana</string>
+    <string name="grayBanana">gray banana</string>
+    <string name="orangeBanana">orange banana</string>
+
+    <string name="blackLemon">black lemon</string>
+    <string name="whiteLemon">white lemon</string>
+    <string name="blueLemon">blue lemon</string>
+    <string name="redLemon">red lemon</string>
+    <string name="brownLemon">brown lemon</string>
+    <string name="pinkLemon">pink lemon</string>
+    <string name="purpleLemon">purple lemon</string>
+    <string name="greenLemon">green lemon</string>
+    <string name="yellowLemon">yellow lemon</string>
+    <string name="grayLemon">gray lemon</string>
+    <string name="orangeLemon">orange lemon</string>
+
+    <string name="blackKiwi">black kiwi</string>
+    <string name="whiteKiwi">white kiwi</string>
+    <string name="blueKiwi">blue kiwi</string>
+    <string name="redKiwi">red kiwi</string>
+    <string name="brownKiwi">brown kiwi</string>
+    <string name="pinkKiwi">pink kiwi</string>
+    <string name="purpleKiwi">purple kiwi</string>
+    <string name="greenKiwi">green kiwi</string>
+    <string name="yellowKiwi">yellow kiwi</string>
+    <string name="grayKiwi">gray kiwi</string>
+    <string name="orangeKiwi">orange kiwi</string>
+
+    <string name="blackStrawberry">black strawberry</string>
+    <string name="whiteStrawberry">white strawberry</string>
+    <string name="blueStrawberry">blue strawberry</string>
+    <string name="redStrawberry">red strawberry</string>
+    <string name="brownStrawberry">brown strawberry</string>
+    <string name="pinkStrawberry">pink strawberry</string>
+    <string name="purpleStrawberry">purple strawberry</string>
+    <string name="greenStrawberry">green strawberry</string>
+    <string name="yellowStrawberry">yellow strawberry</string>
+    <string name="grayStrawberry">gray strawberry</string>
+    <string name="orangeStrawberry">orange strawberry</string>
+
+    <string name="orange">orange</string>
+    <string name="blue">blue</string>
+    <string name="black">black</string>
+    <string name="white">white</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="yellow">yellow</string>
+    <string name="purple">purple</string>
+    <string name="pink">pink</string>
+    <string name="brown">brown</string>
+    <string name="gray">gray</string>
+
+</resources>

@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Цвета</string>
+    <string name="textDescription1">На этом уровне подбирайте цвет фигуры и название цвета. Нажмите любую клавишу, чтобы начать, удачи.</string>
+    <string name="textDescription2">Теперь давайте усложним задание, посмотрим, сколько правильных ответов вы дадите за определенное время.</string>
+    <string name="textDescription3">На этом уровне вам нужно сравнить форму и ее цвет с надписью ниже, если все совпадает, нажмите "Да".</string>
+    <string name="textDescription4">На этом уровне необходимо сравнить форму и ее цвет с надписью ниже, теперь на время.</string>
+    <string name="textDescription5">Теперь сравните цвет фрукта, его силуэт с надписью ниже, удачи.</string>
+    <string name="textDescription6">Теперь сравните цвет фрукта, его силуэт с надписью ниже, только не забывайте о времени.</string>
+    <string name="instructions">Инструкции по запуску</string>
+    <string name="start">Нажмите чтобы начать</string>
+    <string name="exit">Выход</string>
+    <string name="mode">На время:</string>
+    <string name="levelOne">Первый уровень</string>
+    <string name="levelTwo">Второй уровень</string>
+    <string name="levelThree">Третий уровень</string>
+    <string name="next">Далее</string>
+    <string name="cansel">Назад</string>
+    <string name="records">Рекорды:</string>
+    <string name="times">Время: %1$s</string>
+    <string name="youScore">Ваш счет: %1$s</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="banner_Ad_Mob">ca-app-pub-9456842051222073/9208522592</string>
+    <string name="more">Ещё...</string>
+    <string name="thanks">Большое спасибо за Ваш интерес к данному приложению, дополнительные уровни появятся чуть позже...</string>
+    <string name="privacy">Политика конфиденциальности </string>
+    <string name="hyperlink">Open <a href="https://www.termsfeed.com/live/d6f3f321-08fa-44d4-927c-f75181bd0ad9">portal</a></string>
+
+    <string name="blackTriangle">черный треугольник</string>
+    <string name="whiteTriangle">белый треугольник</string>
+    <string name="blueTriangle">синий треугольник</string>
+    <string name="redTriangle">красный треугольник</string>
+    <string name="brownTriangle">коричневый треугольник</string>
+    <string name="pinkTriangle">розовый треугольник</string>
+    <string name="purpleTriangle">фиолетовый треугольник</string>
+    <string name="greenTriangle">зеленый треугольник</string>
+    <string name="yellowTriangle">желтый треугольник</string>
+    <string name="grayTriangle">серый треугольник</string>
+    <string name="orangeTriangle">оранжевый треугольник</string>
+
+    <string name="blackCircle">черный круг</string>
+    <string name="whiteCircle">белый круг</string>
+    <string name="blueCircle">синий круг</string>
+    <string name="redCircle">красный круг</string>
+    <string name="brownCircle">коричневый круг</string>
+    <string name="pinkCircle">розовый круг</string>
+    <string name="purpleCircle">фиолетовый круг</string>
+    <string name="greenCircle">зеленый круг</string>
+    <string name="yellowCircle">желтый круг</string>
+    <string name="grayCircle">серый круг</string>
+    <string name="orangeCircle">оранжевый круг</string>
+
+    <string name="blackSquare">черный квадрат</string>
+    <string name="whiteSquare">белый квадрат</string>
+    <string name="blueSquare">синий квадрат</string>
+    <string name="redSquare">красный квадрат</string>
+    <string name="brownSquare">коричневый квадрат</string>
+    <string name="pinkSquare">розовый квадрат</string>
+    <string name="purpleSquare">фиолетовый квадрат</string>
+    <string name="greenSquare">зеленый квадрат</string>
+    <string name="yellowSquare">желтый квадрат</string>
+    <string name="graySquare">серый квадрат</string>
+    <string name="orangeSquare">оранжевый квадрат</string>
+
+    <string name="blackGrapes">черный виноград</string>
+    <string name="whiteGrapes">белый виноград</string>
+    <string name="blueGrapes">синий виноград</string>
+    <string name="redGrapes">красный виноград</string>
+    <string name="brownGrapes">коричневый виноград</string>
+    <string name="pinkGrapes">розовый виноград</string>
+    <string name="purpleGrapes">фиолетовый виноград</string>
+    <string name="greenGrapes">зеленый виноград</string>
+    <string name="yellowGrapes">желтый виноград</string>
+    <string name="grayGrapes">серый виноград</string>
+    <string name="orangeGrapes">оранжевый виноград</string>
+
+    <string name="blackWatermelon">черный арбуз</string>
+    <string name="whiteWatermelon">белый арбуз</string>
+    <string name="blueWatermelon">синий арбуз</string>
+    <string name="redWatermelon">красный арбуз</string>
+    <string name="brownWatermelon">коричневый арбуз</string>
+    <string name="pinkWatermelon">розовый арбуз</string>
+    <string name="purpleWatermelon">фиолетовый арбуз</string>
+    <string name="greenWatermelon">зеленый арбуз</string>
+    <string name="yellowWatermelon">желтый арбуз</string>
+    <string name="grayWatermelon">серый арбуз</string>
+    <string name="orangeWatermelon">оранжевый арбуз</string>
+
+    <string name="blackBanana">черный банан</string>
+    <string name="whiteBanana">белый банан</string>
+    <string name="blueBanana">синий банан</string>
+    <string name="redBanana">красный банан</string>
+    <string name="brownBanana">коричневый банан</string>
+    <string name="pinkBanana">розовый банан</string>
+    <string name="purpleBanana">фиолетовый банан</string>
+    <string name="greenBanana">зеленый банан</string>
+    <string name="yellowBanana">желтый банан</string>
+    <string name="grayBanana">серый банан</string>
+    <string name="orangeBanana">оранжевый банан</string>
+
+    <string name="blackLemon">черный лимон</string>
+    <string name="whiteLemon">белый лимон</string>
+    <string name="blueLemon">синий лимон</string>
+    <string name="redLemon">красный лимон</string>
+    <string name="brownLemon">коричневый лимон</string>
+    <string name="pinkLemon">розовый лимон</string>
+    <string name="purpleLemon">фиолетовый лимон</string>
+    <string name="greenLemon">зеленый лимон</string>
+    <string name="yellowLemon">желтый лимон</string>
+    <string name="grayLemon">серый лимон</string>
+    <string name="orangeLemon">оранжевый лимон</string>
+
+    <string name="blackKiwi">черный киви</string>
+    <string name="whiteKiwi">белый киви</string>
+    <string name="blueKiwi">синий киви</string>
+    <string name="redKiwi">красный киви</string>
+    <string name="brownKiwi">коричневый киви</string>
+    <string name="pinkKiwi">розовый киви</string>
+    <string name="purpleKiwi">фиолетовый киви</string>
+    <string name="greenKiwi">зеленый киви</string>
+    <string name="yellowKiwi">желтый киви</string>
+    <string name="grayKiwi">серый киви</string>
+    <string name="orangeKiwi">оранжевый киви</string>
+
+    <string name="blackStrawberry">черная клубника</string>
+    <string name="whiteStrawberry">белая клубника</string>
+    <string name="blueStrawberry">синяя клубника</string>
+    <string name="redStrawberry">красная клубника</string>
+    <string name="brownStrawberry">коричневая клубника</string>
+    <string name="pinkStrawberry">розовая клубника</string>
+    <string name="purpleStrawberry">фиолетовая клубника</string>
+    <string name="greenStrawberry">зеленая клубника</string>
+    <string name="yellowStrawberry">желтая клубника</string>
+    <string name="grayStrawberry">серая клубника</string>
+    <string name="orangeStrawberry">оранжевая клубника</string>
+
+    <string name="orange">оранжевый</string>
+    <string name="blue">синий</string>
+    <string name="black">черный</string>
+    <string name="white">белый</string>
+    <string name="red">красный</string>
+    <string name="green">зеленый</string>
+    <string name="yellow">желтый</string>
+    <string name="purple">фиолетовый</string>
+    <string name="pink">розовый</string>
+    <string name="brown">коричневый</string>
+    <string name="gray">серый</string>
+
+</resources>
